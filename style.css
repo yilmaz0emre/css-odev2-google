@@ -1,0 +1,46 @@
+.img{
+    text-align: center;
+}
+.table > table {
+    width: 90%;
+    margin: auto;
+
+}
+#search {
+    font-size: medium;
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+#search > td > p{
+    margin: 0px;
+}
+.info{
+    text-align: center;
+}
+#special {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+#special > p {
+    margin: 0px;
+    font-size: medium;
+}
+#help{
+    background-color:#70CCC2;
+    font-size: small;
+}
+#get {
+    background-color: #62B3AA;
+}
+#get > p{
+    margin: 0px;
+    font-size: small;
+}
+#get > a{
+    font-size: small;
+}
+.last-part{
+    font-size: small;
+    text-align:center;
+}
